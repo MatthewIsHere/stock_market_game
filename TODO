@@ -1,0 +1,3 @@
+bring in old pretty print numbers struct (USD)
+use or lose rust_decimal
+async yahoo_finance_api?
